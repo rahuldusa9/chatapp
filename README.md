@@ -128,4 +128,7 @@ Open `http://localhost:3000` in your browser to view the app.
 ![friend-info](https://github.com/user-attachments/assets/c577cda1-1f15-4c74-a367-73661c56a5bc)
 ![group-info](https://github.com/user-attachments/assets/bcb770e9-aea9-4b42-bcfd-02ae935d19fd)
 
+`ADDITIONAL SCREENSHOT:`
+![app-screenshot](https://raw.githubusercontent.com/Aswith-Dev/Real-time-chat-application/main/img1.png)
+
 ````
