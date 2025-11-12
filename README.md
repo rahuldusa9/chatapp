@@ -92,18 +92,7 @@ npm run dev
 Open `http://localhost:3000` in your browser to view the app.
 
 ### 📷 Screenshots
-<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/ef172e64-e3b7-4a2a-801d-1ab69690b5c7" />
-<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/a01450f4-9325-48bb-b9f8-4d2c24f1906e" />
-<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/d26d3ce9-bbeb-422d-9fac-f810310eb8ff" />
-<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/c27a5338-e33a-4780-b647-c1fdfb023eed" />
-<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/e111ce6f-e503-4393-ac90-4e80bbf5b058" />
-<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/5aad0989-61af-497c-a9f6-e87ee1b143d8" />
-<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/92a42320-2efb-4e98-8cc8-45b933811342" />
-<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/100f075a-afd7-4089-a60f-fc66891201ff" />
-<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/2b914e70-1e68-44ec-ac20-401fb2eb248e" />
-<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/a0055c16-db74-4101-905e-6cc8c82b9554" />
-<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/2d81fe15-f942-4877-86ae-41a2f61b4104" />
-
+![image_alt](https://github.com/user-attachments/assets/ef172e64-e3b7-4a2a-801d-1ab69690b5c7")
 
 
 
