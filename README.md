@@ -92,7 +92,7 @@ npm run dev
 Open `http://localhost:3000` in your browser to view the app.
 
 ### 📷 Screenshots
-![Image](https://raw.githubusercontent.com/Aswith-Dev/Real-time-chat-application/main/img1.png)
+![Demo](https://raw.githubusercontent.com/Aswith-Dev/Real-time-chat-application/main/img1.png)
 
 
 
